@@ -1,0 +1,21 @@
+2026-03-10T04:05:01Z Host=FIN-PC11 Process=chrome.exe User=a.kumar
+2026-03-10T04:07:11Z Host=DEV-PC03 Process=code.exe User=r.jones
+2026-03-10T04:10:21Z Host=HR-PC20 Process=outlook.exe User=hr02
+2026-03-10T04:15:10Z Host=FIN-PC11 Process=excel.exe User=finance1
+2026-03-10T04:20:33Z Host=DEV-PC03 Process=python.exe User=dev01 Cmd=python test_script.py
+2026-03-10T04:22:44Z Host=HR-PC20 Process=teams.exe User=hr02
+2026-03-10T04:25:55Z Host=FIN-PC11 Process=notepad.exe User=a.kumar
+2026-03-10T04:30:21Z Host=DEV-PC03 Process=git.exe User=r.jones
+
+2026-03-10T05:06:14Z Host=HR-PC22 Process=winword.exe User=j.smith
+2026-03-10T05:06:15Z Host=HR-PC22 Process=powershell.exe Parent=winword.exe Cmd=powershell -enc SQBtAHAA
+2026-03-10T05:07:01Z Host=HR-PC22 Process=cmd.exe Parent=powershell.exe Cmd=whoami
+2026-03-10T05:08:22Z Host=HR-PC22 Process=net.exe Cmd=net use \\fileserver\finance
+
+2026-03-10T04:33:12Z Host=HR-PC20 Process=chrome.exe User=hr02
+2026-03-10T04:36:55Z Host=FIN-PC11 Process=calc.exe User=finance1
+2026-03-10T04:40:12Z Host=DEV-PC03 Process=node.exe User=dev01
+2026-03-10T04:44:31Z Host=HR-PC20 Process=excel.exe User=hr02
+2026-03-10T04:47:02Z Host=FIN-PC11 Process=teams.exe User=a.kumar
+2026-03-10T04:49:21Z Host=DEV-PC03 Process=cmd.exe User=r.jones Cmd=dir
+2026-03-10T04:52:12Z Host=HR-PC20 Process=chrome.exe User=hr02

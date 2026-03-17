@@ -1,0 +1,17 @@
+2026-03-10 08:01:11 FIN-PC11 query google.com
+2026-03-10 08:02:33 DEV-PC03 query github.com
+2026-03-10 08:04:11 HR-PC20 query microsoft.com
+2026-03-10 08:06:22 FIN-PC11 query amazonaws.com
+2026-03-10 08:10:05 DEV-PC03 query stackoverflow.com
+2026-03-10 08:12:18 HR-PC20 query office.com
+
+2026-03-10 10:34:21 HR-PC22 query update-check.securecdn.co
+2026-03-10 10:35:01 HR-PC22 query pastebin.com
+2026-03-10 10:36:10 HR-PC22 query malicious-storage.net
+
+2026-03-10 08:14:44 FIN-PC11 query cloudflare.com
+2026-03-10 08:17:12 DEV-PC03 query gitlab.com
+2026-03-10 08:19:02 HR-PC20 query linkedin.com
+2026-03-10 08:21:55 FIN-PC11 query bing.com
+2026-03-10 08:24:33 DEV-PC03 query docker.com
+2026-03-10 08:27:21 HR-PC20 query zoom.us

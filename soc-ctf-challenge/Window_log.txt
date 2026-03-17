@@ -1,0 +1,23 @@
+2026-03-10 08:05:11 EventID=4624 User=a.kumar LogonType=2 SourceIP=192.168.12.21
+2026-03-10 08:12:22 EventID=4624 User=r.jones LogonType=2 SourceIP=192.168.12.33
+2026-03-10 08:15:41 EventID=4625 User=admin FailureReason=BadPassword SourceIP=192.168.12.10
+2026-03-10 08:18:03 EventID=4688 User=a.kumar NewProcess=chrome.exe ParentProcess=explorer.exe
+2026-03-10 08:25:22 EventID=4624 User=backup LogonType=3 SourceIP=192.168.12.10
+2026-03-10 08:32:15 EventID=4688 User=r.jones NewProcess=notepad.exe ParentProcess=explorer.exe
+2026-03-10 08:40:33 EventID=4624 User=dev01 LogonType=2 SourceIP=192.168.12.51
+
+2026-03-10 10:28:11 EventID=4624 User=j.smith LogonType=2 SourceIP=192.168.12.45
+2026-03-10 10:29:44 EventID=4625 User=j.smith FailureReason=BadPassword SourceIP=192.168.12.45
+2026-03-10 10:31:05 EventID=4624 User=j.smith LogonType=10 SourceIP=192.168.12.45
+2026-03-10 10:35:50 EventID=4672 User=j.smith SpecialPrivilegesAssigned
+2026-03-10 10:36:15 EventID=4688 User=j.smith NewProcess=powershell.exe ParentProcess=winword.exe
+2026-03-10 10:38:04 EventID=4688 User=j.smith NewProcess=cmd.exe ParentProcess=powershell.exe
+
+2026-03-10 08:44:11 EventID=4688 User=dev01 NewProcess=python.exe ParentProcess=cmd.exe
+2026-03-10 08:50:02 EventID=4625 User=a.kumar FailureReason=BadPassword SourceIP=192.168.12.21
+2026-03-10 09:01:19 EventID=4624 User=finance1 LogonType=2 SourceIP=192.168.12.66
+2026-03-10 09:07:42 EventID=4688 User=finance1 NewProcess=excel.exe ParentProcess=explorer.exe
+2026-03-10 09:10:11 EventID=4624 User=hr02 LogonType=2 SourceIP=192.168.12.70
+2026-03-10 09:15:55 EventID=4688 User=hr02 NewProcess=outlook.exe ParentProcess=explorer.exe
+2026-03-10 09:18:43 EventID=4625 User=guest FailureReason=BadPassword SourceIP=192.168.12.80
+2026-03-10 09:25:31 EventID=4688 User=admin NewProcess=mmc.exe ParentProcess=explorer.exe

@@ -1,0 +1,15 @@
+Mar 10 08:01:02 fileserver sshd[2001]: Accepted password for admin from 192.168.12.10 port 51233
+Mar 10 08:02:10 fileserver sshd[2001]: session opened for user admin
+Mar 10 08:03:22 fileserver sshd[2001]: session closed
+Mar 10 08:10:11 fileserver sshd[2010]: Failed password for root from 192.168.12.55 port 33412
+Mar 10 08:15:02 fileserver sshd[2020]: Accepted password for backup from 192.168.12.10 port 51244
+Mar 10 08:16:01 fileserver sshd[2020]: session opened for user backup
+Mar 10 08:17:55 fileserver sshd[2020]: session closed
+Mar 10 08:22:41 fileserver sshd[2033]: Failed password for admin from 192.168.12.80 port 44511
+Mar 10 08:30:12 fileserver sshd[2041]: Accepted password for admin from 192.168.12.10 port 51250
+Mar 10 08:31:20 fileserver sshd[2041]: session opened
+Mar 10 08:33:10 fileserver sshd[2041]: session closed
+
+Mar 10 10:41:02 fileserver sshd[2234]: Accepted password for backup from 192.168.12.45 port 52111
+Mar 10 10:41:12 fileserver sshd[2234]: session opened for user backup
+Mar 10 10:44:02 fileserver sshd[2234]: session closed

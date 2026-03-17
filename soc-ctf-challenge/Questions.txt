@@ -1,0 +1,23 @@
+SOC Log Investigation Challenge
+
+You are a Security Operations Center (SOC) analyst investigating unusual activity within a corporate network. Multiple log files have been collected from different systems and services across the environment.
+
+Your task is to analyze the provided logs, correlate events from different sources, and reconstruct what happened in the network. The logs contain both normal system activity and important events that may be related to the incident.
+
+Note:
+Logs come from different sources and formats.
+
+Flag format: FLAG{answer1_answer2_ans.....}
+
+1. Which user account was used by the attacker?
+
+2. Which internal server did the attacker access?
+
+3. What external IP address did the infected computer connect to?
+
+4. Which protocol was used to access the Linux server?
+
+5. Which sensitive file did the attacker access?
+
+
+format MCET(*****_**********_**.**.**.**_***_*******)
